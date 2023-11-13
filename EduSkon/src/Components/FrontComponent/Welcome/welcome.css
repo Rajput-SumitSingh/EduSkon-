@@ -1,0 +1,50 @@
+#nav_section{
+    margin: 0px;
+    padding: 0px
+}
+.nav-btn{
+    gap: 30px;
+}
+.btn{
+    margin-right: 20px;
+    
+}
+.nav_text{
+    font-weight: bold;
+}
+
+.nav_icon{
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.header_container{
+    margin-top: 5rem;
+    padding-top: 5rem;
+}
+.heading_text{
+    margin:10px;
+}
+form label{
+    margin-top: 10px;
+}
+
+.goal_container{
+    
+    margin-top: 5rem;
+    padding-top: 5rem;
+}
+
+.intro_container li{
+    gap: 20px;
+}
+.learning-card{
+    position: relative
+}
+.card-img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white; /* Text color */
+    padding: 20px; /* Adjust as needed */
+}
